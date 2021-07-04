@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/template-freelancer/static/css/main.bc3ca8cd.chunk.css",
+    "main.js": "/template-freelancer/static/js/main.030f7da2.chunk.js",
+    "main.js.map": "/template-freelancer/static/js/main.030f7da2.chunk.js.map",
+    "runtime-main.js": "/template-freelancer/static/js/runtime-main.0cd8b1b7.js",
+    "runtime-main.js.map": "/template-freelancer/static/js/runtime-main.0cd8b1b7.js.map",
+    "static/js/2.c26bec5c.chunk.js": "/template-freelancer/static/js/2.c26bec5c.chunk.js",
+    "static/js/2.c26bec5c.chunk.js.map": "/template-freelancer/static/js/2.c26bec5c.chunk.js.map",
+    "index.html": "/template-freelancer/index.html",
+    "static/css/main.bc3ca8cd.chunk.css.map": "/template-freelancer/static/css/main.bc3ca8cd.chunk.css.map",
+    "static/js/2.c26bec5c.chunk.js.LICENSE.txt": "/template-freelancer/static/js/2.c26bec5c.chunk.js.LICENSE.txt",
+    "static/media/cabin.44173302.png": "/template-freelancer/static/media/cabin.44173302.png",
+    "static/media/cake.65544730.png": "/template-freelancer/static/media/cake.65544730.png",
+    "static/media/circle-cropped.37b9de53.png": "/template-freelancer/static/media/circle-cropped.37b9de53.png",
+    "static/media/circus.494a4a91.png": "/template-freelancer/static/media/circus.494a4a91.png",
+    "static/media/game.a940b57a.png": "/template-freelancer/static/media/game.a940b57a.png",
+    "static/media/safe.01792c0b.png": "/template-freelancer/static/media/safe.01792c0b.png",
+    "static/media/submarine.48c9704c.png": "/template-freelancer/static/media/submarine.48c9704c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd8b1b7.js",
+    "static/js/2.c26bec5c.chunk.js",
+    "static/css/main.bc3ca8cd.chunk.css",
+    "static/js/main.030f7da2.chunk.js"
+  ]
+}
